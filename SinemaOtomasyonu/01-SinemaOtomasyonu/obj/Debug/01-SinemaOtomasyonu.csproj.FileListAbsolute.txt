@@ -1,0 +1,11 @@
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\bin\Debug\01-SinemaOtomasyonu.exe.config
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\bin\Debug\01-SinemaOtomasyonu.exe
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\bin\Debug\01-SinemaOtomasyonu.pdb
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\01-SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\_01_SinemaOtomasyonu.Form1.resources
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\_01_SinemaOtomasyonu.Form2.resources
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\_01_SinemaOtomasyonu.Properties.Resources.resources
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\01-SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\01-SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\01-SinemaOtomasyonu.exe
+C:\Developer\AktifSınıflar\Boost6\20211105-WinForm\01-SinemaOtomasyonu\obj\Debug\01-SinemaOtomasyonu.pdb

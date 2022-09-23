@@ -1,0 +1,20 @@
+C:\Users\murat\source\repos\notdefteri\notdefteri\bin\Debug\notdefteri.exe.config
+C:\Users\murat\source\repos\notdefteri\notdefteri\bin\Debug\notdefteri.exe
+C:\Users\murat\source\repos\notdefteri\notdefteri\bin\Debug\notdefteri.pdb
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.Form1.resources
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.Properties.Resources.resources
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.exe
+C:\Users\murat\source\repos\notdefteri\notdefteri\obj\Debug\notdefteri.pdb
+D:\Windows 10\Desktop\notdefteri\notdefteri\bin\Debug\notdefteri.exe.config
+D:\Windows 10\Desktop\notdefteri\notdefteri\bin\Debug\notdefteri.exe
+D:\Windows 10\Desktop\notdefteri\notdefteri\bin\Debug\notdefteri.pdb
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.AssemblyReference.cache
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.Form1.resources
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.Properties.Resources.resources
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.GenerateResource.cache
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.CoreCompileInputs.cache
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.exe
+D:\Windows 10\Desktop\notdefteri\notdefteri\obj\Debug\notdefteri.pdb

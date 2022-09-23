@@ -1,0 +1,6 @@
+C:\Users\Buğra Atacan\source\repos\Kumbara\Kumbara\bin\Debug\Kumbara.dll
+C:\Users\Buğra Atacan\source\repos\Kumbara\Kumbara\bin\Debug\Kumbara.pdb
+C:\Users\Buğra Atacan\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.AssemblyReference.cache
+C:\Users\Buğra Atacan\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.CoreCompileInputs.cache
+C:\Users\Buğra Atacan\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.dll
+C:\Users\Buğra Atacan\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.pdb

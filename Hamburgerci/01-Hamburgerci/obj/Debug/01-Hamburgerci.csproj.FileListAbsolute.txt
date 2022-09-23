@@ -1,0 +1,12 @@
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\bin\Debug\01-Hamburgerci.exe.config
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\bin\Debug\01-Hamburgerci.exe
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\bin\Debug\01-Hamburgerci.pdb
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\01-Hamburgerci.csprojAssemblyReference.cache
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\_01_Hamburgerci.Form1.resources
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\_01_Hamburgerci.Form2.resources
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\_01_Hamburgerci.MyMDIForm.resources
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\_01_Hamburgerci.Properties.Resources.resources
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\01-Hamburgerci.csproj.GenerateResource.cache
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\01-Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\01-Hamburgerci.exe
+C:\Developer\AktifSınıflar\Boost6\20211110-WinForm\01-Hamburgerci\obj\Debug\01-Hamburgerci.pdb

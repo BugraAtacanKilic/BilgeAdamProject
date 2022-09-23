@@ -1,0 +1,118 @@
+
+td{
+    background-color: rgb(238, 238, 238);
+    color: rgb(111, 111, 111);
+    padding: 3px 5px; 
+}
+th{
+    background-color: rgb(112, 196, 105);
+    color: white;
+    font-weight: normal;
+    padding: 20px 30px;
+    text-align: center;
+}
+.pnl-detail{
+    position: fixed;
+    width: 200;   
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1400px;
+	margin: auto;
+    position: relative;
+}
+.table{
+    width: 800px;
+    display: block;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 115%;
+  overflow: auto;
+}
+.p1{
+    display: flex;
+    width:200px;
+    height: 200px;
+}
+.pnl-order{
+    display: flex;
+}
+.dtl-div{
+    background-color:aquamarine
+}
+
+#wrapper {
+    background: #444;
+    
+    width: 390px;
+    overflow: hidden;
+    height: 270px;
+    font-family: "PT Sans Narrow", "Fjalla One", sans-serif;
+    border-radius: 3px;
+    border: 3px solid #fff;
+    box-shadow: 0 0 2px #444;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+    margin: auto
+    
+    
+}
+#header {
+    background: #ed6639;
+    color: #fff;
+    height: 50px;
+    border-bottom: 3px solid #fff;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 700
+}
+#slider {
+    background: #444;
+    width: 750px;
+    height: 178px;
+    -webkit-transition: margin-left .5s cubic-bezier(0, 1, 0.5, 1);
+    -moz-transition: margin-left .5s cubic-bezier(0, 1, 0.5, 1);
+    -o-transition: margin-left .5s cubic-bezier(0, 1, 0.5, 1);
+    transition: margin-left .5s cubic-bezier(0, 1, 0.5, 1);
+    padding: 10px
+}
+
+#slider:hover {
+    margin-left: -380px
+}
+
+.screen {
+    width: 370px;
+    height: 180px;
+    float: left;
+    color: #fff
+}
+
+.screen:not(:first-child) {
+    margin-left: 10px
+}
+
+.profile-picture {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    border: 3px solid #fff;
+    background: #888;
+    display: block;
+    margin: 30px auto auto
+}
+.profile-owner {
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.3em;
+    padding: 5px
+}

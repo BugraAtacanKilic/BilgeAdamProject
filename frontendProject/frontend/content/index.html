@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css" />
+  </head>
+  <body>
+    <div class="container">
+        
+        <div class="pnl-table">   
+            <input type="text" id="myInput" onkeyup="inputFilter()" placeholder="Müşteri Ara...">
+            <table class="table" id="mytable">
+                <tr  style ="background-color:grey">
+                    <th class="th1"> Id</th>   
+                    <th class="th2">Musteri Id</th>
+                    <th class="th3">
+                        <select name="filter_for" id="employeesDropdown" onchange="filterTable(this.value);" >
+                        <option value="All">Tüm Çalışanlar</option>
+                        <option value="Nancy Davolio">Nancy Davolio</option>
+                        <option value="Andrew Fuller">Andrew Fuller</option>
+                        <option value="Janet Leverling">Janet Leverling</option>
+                        <option value="Margaret Peacock">Margaret Peacock</option>
+                        <option value="Steven Buchanan">Steven Buchanan</option>
+                        <option value="Michael Suyama">Michael Suyama</option>
+                        </select>
+                    </th>
+                    <th class="th4 sorting">Siparis Tarihi</th>
+                    <th class="th5 sorting">Toplam Tutar</th>
+                    <th class="th6">Detay</th>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <div id="wrapper">
+                
+                  <div id="header">Admin Profile</div>
+                   <div id="slider">
+                    <div class="screen">
+                      <img
+                        class="profile-picture"
+                        src="https://andrewfuller.com.au/wp-content/uploads/2014/07/About_AndrewFuller.jpg"
+                      />
+                      <div class="profile-owner">Dr.Andrew Fuller  </div>
+                      
+                    </div>
+                    <div class="screen">
+                      <div class="profile-description">
+                        <p>
+                          Title: Vice President, Sales
+                        </p>
+                        <p>
+                         Birth Date: 1952-02-19T00:00:00
+                        </p>
+                        <p>
+                          Hire Date: 1992-08-14T00:00:00               
+                        </p>
+                        <p>
+                          Address: 908 W. Capital Way               
+                        </p>
+                        <p>
+                          City: Tacoma               
+                        </p>
+                        <p>
+                          Country: USA               
+                        </p>
+                      </div>
+                    </div>                                 
+            </div>
+        </div>
+        <div class="pnl-detail">
+            <div class="pnl-order">
+                <h3>Order ID:</h3>
+                <h3 class="pnl-id">123</h3>
+            </div>
+            <div class="product-detail"></div>
+        </div>
+    </div>
+
+
+        
+    </div>
+    
+    
+    
+    
+   
+    <script src="main.js"></script>
+  </body>
+</html>

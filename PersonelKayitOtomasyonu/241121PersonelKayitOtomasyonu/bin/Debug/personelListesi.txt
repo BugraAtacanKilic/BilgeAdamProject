@@ -1,0 +1,1 @@
+[{"Ad":"Serd","Adres":"asd","DogumTarihi":"\/Date(949525852000+0200)\/","Email":"asd@.com","Image":null,"IseGirisTarihi":"\/Date(1637784652752+0300)\/","PersonelID":"12345","Soyad":"Atr","Telefon":"(555) 555-5555","unvan":1}]

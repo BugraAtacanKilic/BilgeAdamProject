@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="stylesheet" href="adminPanel.css" />
+  </head>
+  <body>
+    <div class="vid-container">
+      <img class="bgvid"
+           src="https://images.unsplash.com/photo-1425321395722-b1dd54a97cf3?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=">
+      />
+      <div class="inner-container">
+        <img class="bgvid inner" src="https://images.unsplash.com/photo-1425321395722-b1dd54a97cf3?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop="
+        />
+        
+          <div class="box">
+            <form>
+              <h1>Login</h1>
+            <input type="text" id="username" placeholder="Username"/>
+            <input type="text" id="password" placeholder="Password"/>
+            <div class="checkbox"> 
+              <label asp-for="IsRemember">Beni Hatırla</label>
+              <input type="checkbox">
+            </div>        
+            <input type="button" value="Login" class="btn" >
+
+            </form>            
+          </div>              
+      </div>
+    </div>
+    </body>
+</html>

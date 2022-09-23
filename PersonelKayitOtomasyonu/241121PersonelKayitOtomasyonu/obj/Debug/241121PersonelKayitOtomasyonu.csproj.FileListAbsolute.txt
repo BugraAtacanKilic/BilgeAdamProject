@@ -1,0 +1,67 @@
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.exe.config
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.exe
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.pdb
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\_241121PersonelKayitOtomasyonu.Form1.resources
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\_241121PersonelKayitOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.exe
+C:\Users\User\Desktop\BilgeAdam\1.Dersler\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.pdb
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.exe.config
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.exe
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.pdb
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csprojAssemblyReference.cache
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\_241121PersonelKayitOtomasyonu.Form1.resources
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\_241121PersonelKayitOtomasyonu.Properties.Resources.resources
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.GenerateResource.cache
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.exe
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.pdb
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\gizem.iseri\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.CopyComplete
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.exe.config
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.exe
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\241121PersonelKayitOtomasyonu.pdb
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Buffers.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Memory.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Json.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.ValueTuple.dll
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Buffers.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Memory.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Text.Json.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\bin\Debug\System.ValueTuple.xml
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.AssemblyReference.cache
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\_241121PersonelKayitOtomasyonu.Form1.resources
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\_241121PersonelKayitOtomasyonu.Properties.Resources.resources
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.GenerateResource.cache
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.exe
+D:\Windows 10\Desktop\241121PersonelKayitOtomasyonu\241121PersonelKayitOtomasyonu\obj\Debug\241121PersonelKayitOtomasyonu.pdb

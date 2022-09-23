@@ -1,0 +1,14 @@
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\NOTEBOARD.DAL.dll.config
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\NOTEBOARD.DAL.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\NOTEBOARD.DAL.pdb
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\EntityFramework.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\NOTEBOARD.Model.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\NOTEBOARD.Model.pdb
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\EntityFramework.xml
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\obj\Debug\NOTEBOARD.DAL.csprojAssemblyReference.cache
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\obj\Debug\NOTEBOARD.DAL.csproj.CoreCompileInputs.cache
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\obj\Debug\NOTEBOARD.DAL.csproj.CopyComplete
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\obj\Debug\NOTEBOARD.DAL.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.DAL\obj\Debug\NOTEBOARD.DAL.pdb

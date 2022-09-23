@@ -1,0 +1,14 @@
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.BLL.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.BLL.pdb
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\obj\Debug\NOTEBOARD.BLL.csprojAssemblyReference.cache
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\obj\Debug\NOTEBOARD.BLL.csproj.CoreCompileInputs.cache
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\obj\Debug\NOTEBOARD.BLL.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\obj\Debug\NOTEBOARD.BLL.pdb
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.DAL.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.Model.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\EntityFramework.dll
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.DAL.pdb
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.DAL.dll.config
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\NOTEBOARD.Model.pdb
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\bin\Debug\EntityFramework.xml
+C:\Developer\AktifSınıflar\Boost6\KATMANLI\NOTEBOARD\NOTEBOARD.BLL\obj\Debug\NOTEBOARD.BLL.csproj.CopyComplete

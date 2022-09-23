@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 12345,
+    "Ad": "Aaa",
+    "Soyad": "Bbb",
+    "DogumTarihi": "2000-11-25T16:16:00",
+    "TelNo": "0006787890",
+    "Email": "aaaa@aaa.com",
+    "Adres": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "IseGirisTarihi": "2021-11-25T16:20:52.0879932+03:00",
+    "FotoYolu": null,
+    "Unvan": -1
+  },
+  {
+    "Id": 78906,
+    "Ad": "Aaa",
+    "Soyad": "Bbb",
+    "DogumTarihi": "2000-11-25T16:16:00",
+    "TelNo": "0006787890",
+    "Email": "aaaa@aaa.com",
+    "Adres": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "IseGirisTarihi": "2021-11-25T16:20:52.0879932+03:00",
+    "FotoYolu": null,
+    "Unvan": -1
+  },
+  {
+    "Id": 34567,
+    "Ad": "Aaa",
+    "Soyad": "Bbb",
+    "DogumTarihi": "2000-11-25T16:16:00",
+    "TelNo": "0006787890",
+    "Email": "aaaa@aaa.com",
+    "Adres": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "IseGirisTarihi": "2021-11-25T16:21:25.7820169+03:00",
+    "FotoYolu": null,
+    "Unvan": -1
+  },
+  {
+    "Id": 12786,
+    "Ad": "Aaa",
+    "Soyad": "Bbb",
+    "DogumTarihi": "2000-11-25T16:16:00",
+    "TelNo": "0006787890",
+    "Email": "aaaa@aaa.com",
+    "Adres": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "IseGirisTarihi": "2021-11-25T16:21:41.4355115+03:00",
+    "FotoYolu": null,
+    "Unvan": -1
+  },
+  {
+    "Id": 34567,
+    "Ad": "Aaa",
+    "Soyad": "Bbb",
+    "DogumTarihi": "2000-11-25T16:16:00",
+    "TelNo": "0006787890",
+    "Email": "aaaa@aaa.com",
+    "Adres": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "IseGirisTarihi": "2021-11-25T16:25:49.4739263+03:00",
+    "FotoYolu": null,
+    "Unvan": -1
+  }
+]
